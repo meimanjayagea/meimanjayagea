@@ -1,7 +1,30 @@
-### Hi there 👋
+![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&whatsapp=082387405917&pattern=leaf&colorPattern=%23eaeaea)
+---
+
+### Hello @Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+---
+
+[![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fjefripunza-youtube-channel-badge.vercel.app%2Fapi%2Fsubscriber)](https://www.youtube.com/user/jefripunza/videos/)
+[![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fjefripunza-youtube-channel-badge.vercel.app%2Fapi%2Fviews)](https://www.youtube.com/user/jefripunza/videos/)
+
+<!-- [![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fjefripunza-youtube-channel-badge.vercel.app%2Fapi%2Fcomments)](https://www.youtube.com/user/jefripunza/videos/) -->
+
+[![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fjefripunza-youtube-channel-badge.vercel.app%2Fapi%2Fvideos)](https://www.youtube.com/user/jefripunza/videos/)
+
+## Donate
+
+[![Donate](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/jefripunza)
+
+## Sosial Media
 
 
-**meimanjayagea/meimanjayagea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meimanjaya7/)
+[![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiman-jaya-gea-530280184/)
+[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://meimanjayagea.com/)
+
+
+<!-- **meimanjayagea/meimanjayagea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +35,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
+
+### 🔥 Streak Stats
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meimanjayagea&theme=algolia" alt="meiman" /></p>
+
+### 📄 Github Stats
+<p align="left">
+<a href="https://github.com/meimanjayagea">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meimanjayagea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meimanjayagea&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
