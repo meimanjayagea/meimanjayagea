@@ -1,8 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 ---
 ![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=topografi&colorPattern=%235d5d5d)
+
+
+
+![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?rv=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 ---
 
 ## Sosial Media
