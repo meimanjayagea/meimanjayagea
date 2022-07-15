@@ -1,11 +1,7 @@
-### Hello @Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ---
-![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
+![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%235d5d5d)
 ---
-
-## Donate
-
-[![Donate](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/jayagea)
 
 ## Sosial Media
 
@@ -13,6 +9,9 @@
 [![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiman-jaya-gea-530280184/)
 [![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://meimanjayagea.com/)
 
+## Donate
+
+[![Donate](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/jayagea)
 
 <!-- **meimanjayagea/meimanjayagea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
