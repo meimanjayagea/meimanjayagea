@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
 <p align="center">
 <a href="https://meimanjayagea.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -17,8 +13,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
----
 
 ![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjaya7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
 
@@ -45,24 +39,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-<!-- **meimanjayagea/meimanjayagea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+---
 
 ### 🔥 Streak Stats
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meimanjayagea&theme=algolia" alt="meiman" /></p>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
+### 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/meimanjayagea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meimanjayagea&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meimanjayagea&theme=noctis_minimus&layout=compact" />
 </a>
