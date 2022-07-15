@@ -1,8 +1,6 @@
-![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
----
-
 ### Hello @Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+---
+![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?v=4&backgroundColor=%23ecf0f1&instagram=meimanjayagea7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
 ---
 
 ## Donate
@@ -10,7 +8,6 @@
 [![Donate](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/jayagea)
 
 ## Sosial Media
-
 
 [![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meimanjaya7/)
 [![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiman-jaya-gea-530280184/)
