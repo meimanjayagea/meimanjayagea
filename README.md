@@ -8,10 +8,10 @@
 ---
 <p align="center">
 [![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meimanjaya7/)
-![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?rv=4&backgroundColor=%23ecf0f1&instagram=meimanjaya7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 ---
-
+![Meiman Jaya Gea card name](https://cardivo.vercel.app/api?name=Meiman%20Jaya%20Gea&description=Hi,%20i%27m%20a%20front%20end%20web%20developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71702901?rv=4&backgroundColor=%23ecf0f1&instagram=meimanjaya7&linkedin=Meiman%20Jaya%20Gea&github=meimanjayagea&pattern=leaf&colorPattern=%23eaeaea)
+---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
