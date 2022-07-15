@@ -61,13 +61,11 @@ Here are some ideas to get you started:
 ### 🔥 Streak Stats
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meimanjayagea&theme=algolia" alt="meiman" /></p>
 
-### 📄 Github Stats
-<p align="left">
-<a href="https://github.com/meimanjayagea">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meimanjayagea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meimanjayagea&layout=compact&langs_count=8&theme=algolia"/>
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meimanjayagea&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meimanjayagea&theme=noctis_minimus&layout=compact" />
 </a>
-</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
